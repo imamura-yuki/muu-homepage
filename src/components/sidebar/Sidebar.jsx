@@ -65,7 +65,7 @@ const Sidebar = () => {
     </aside>
 
     <div className={toggle ? "nav__toggle nav__toggle-open" : "nav__toggle"} onClick={() => showMenu(!toggle)}>
-      <i className="icon__menu"></i>
+      <i className="icon-menu"></i>
     </div>
     </>
   )

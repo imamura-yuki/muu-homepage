@@ -10,7 +10,7 @@ const Home = () => {
       <div className="intro">
         <img src={Me} alt="" className="home__img"/>
         <h1 className="home__name">muu</h1>
-        <span className="home__education">私はエンジニアを志す者です。</span>
+        <span className="home__education">私はエンジニアを志している者です。</span>
         <HeaderSocials/>
 
         <a href="#contact" className="btn">Hire Me</a>

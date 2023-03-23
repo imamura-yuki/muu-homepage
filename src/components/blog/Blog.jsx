@@ -7,50 +7,50 @@ import Image3 from "../../assets/blog-3.svg";
 const Blog = () => {
   return (
     <section className="blog container section" id="blog">
-      <h2 className="section__title">Latest Posts</h2>
+      <h2 className="section__title">Blog</h2>
 
       <div className="blog__container grid">
         <div className="blog__card">
           <div className="blog__thumb">
-            <a href="#"><span className="blog__category">Reviews</span></a>
+            <a href="#"><span className="blog__category">レビュー</span></a>
             <a href="#"><img src={Image1} alt="" class="blog__img"/></a>
           </div>
           <div className="blog__details">
-            <h3 className="blog__title">5 Best App Development Tool for Your Projects</h3>
+            <h3 className="blog__title">【駆け出しエンジニア】アプリ開発に最適なツール</h3>
             <div className="blog__meta">
-              <span>09 February, 2022</span>
+              <span>2023年 3月 1日</span>
               <span className="blog__dot">.</span>
-              <span>Bolby</span>
+              <span>test</span>
             </div>
           </div>
         </div>
 
         <div className="blog__card">
           <div className="blog__thumb">
-            <a href="#"><span className="blog__category">Tutorial</span></a>
+            <a href="#"><span className="blog__category">レビュー</span></a>
             <a href="#"><img src={Image2} alt="" class="blog__img"/></a>
           </div>
           <div className="blog__details">
-            <h3 className="blog__title">Common Misconceptions About Payment</h3>
+            <h3 className="blog__title">【駆け出しエンジニア】おすすめのサブスクリプション</h3>
             <div className="blog__meta">
-              <span>07 February, 2022</span>
+              <span>2023年 3月 2日</span>
               <span className="blog__dot">.</span>
-              <span>Bolby</span>
+              <span>test</span>
             </div>
           </div>
         </div>
 
         <div className="blog__card">
           <div className="blog__thumb">
-            <a href="#"><span className="blog__category">Business</span></a>
+            <a href="#"><span className="blog__category">アプリ開発</span></a>
             <a href="#"><img src={Image3} alt="" class="blog__img"/></a>
           </div>
           <div className="blog__details">
-            <h3 className="blog__title">3 Things to know about startup business</h3>
+            <h3 className="blog__title">【駆け出しエンジニア】アプリ開発について知っておくべき点</h3>
             <div className="blog__meta">
-              <span>05 February, 2022</span>
+              <span>2023年 3月 3日</span>
               <span className="blog__dot">.</span>
-              <span>Bolby</span>
+              <span>test</span>
             </div>
           </div>
         </div>
