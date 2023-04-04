@@ -13,7 +13,7 @@ const About = () => {
         <div className="about__data grid">
           <div className="about__info">
             <p className="about__description">私は大阪出身のmuuです。前職は看護師として働いていましたが、QAにジョブチェンジしました。主にフロントエンドの分野を学んでいます。</p>
-            <a href="" className="btn">Download CV</a>
+            <a href="#" className="btn">Download CV</a>
           </div>
 
           <div className="about__skills grid">
