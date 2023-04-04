@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/muu-homepage/static/css/main.d6372d2b.css",
+    "main.js": "/muu-homepage/static/js/main.2f630754.js",
+    "static/media/work-7.svg": "/muu-homepage/static/media/work-7.ba77b82fec01c0de4ddbd38e03652b3c.svg",
+    "static/media/blog-2.svg": "/muu-homepage/static/media/blog-2.a17fe5c4c05ccd6e019484f9124acecf.svg",
+    "static/media/blog-1.svg": "/muu-homepage/static/media/blog-1.7f5fb5b0228f104a981e9809017a1cb2.svg",
+    "static/media/work-4.svg": "/muu-homepage/static/media/work-4.b1e5c1341899ee00d86d6c613f593837.svg",
+    "static/media/blog-3.svg": "/muu-homepage/static/media/blog-3.2b3b19d1ca3209f976198c3fd2418e16.svg",
+    "static/media/work-3.svg": "/muu-homepage/static/media/work-3.f1d02dc63be36a2005f8d395ecb8b36c.svg",
+    "static/media/work-1.svg": "/muu-homepage/static/media/work-1.bebc0ee30ea8dd5325cfeb0fe8f2615b.svg",
+    "static/media/service-1.svg": "/muu-homepage/static/media/service-1.cf1ed095ef4b3f923356075cee1bc398.svg",
+    "static/media/work-6.svg": "/muu-homepage/static/media/work-6.e53b868f21628c547fd12d76c5b599db.svg",
+    "static/media/avatar-2.svg": "/muu-homepage/static/media/avatar-2.dbaf15ff9b5d68a39d1b24521fb12640.svg",
+    "static/media/work-2.svg": "/muu-homepage/static/media/work-2.2b1987b3b6f51b87b2538a61b31a43d4.svg",
+    "static/media/service-3.svg": "/muu-homepage/static/media/service-3.a324186e2cfcc11f1ad1ea2c0a4ffa55.svg",
+    "static/media/service-2.svg": "/muu-homepage/static/media/service-2.5c151f1353d4629154fbf0e537115128.svg",
+    "static/media/moon-icon.svg": "/muu-homepage/static/media/moon-icon.77499c1d88187ffed280403f7958f814.svg",
+    "static/media/Astronaut-desk.svg": "/muu-homepage/static/media/Astronaut-desk.5470b0614e723ea00f85986870768e57.svg",
+    "static/media/dots-bg.svg": "/muu-homepage/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
+    "index.html": "/muu-homepage/index.html",
+    "main.d6372d2b.css.map": "/muu-homepage/static/css/main.d6372d2b.css.map",
+    "main.2f630754.js.map": "/muu-homepage/static/js/main.2f630754.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6372d2b.css",
+    "static/js/main.2f630754.js"
+  ]
+}
